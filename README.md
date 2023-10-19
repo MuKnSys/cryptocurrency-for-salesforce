@@ -1,6 +1,6 @@
 # salesforce-org-wallet
 
-# XRP-Salesforce Project
+# Salesforce Project
 
 This is a basic demonstration Salesforce DX Project. Using the [SF CLI](https://developer.salesforce.com/tools/sfdxcli) tools, you can deploy to a Developer Edition Scratch Org.
 
