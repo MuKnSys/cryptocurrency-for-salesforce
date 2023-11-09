@@ -2,7 +2,7 @@
 
 # Salesforce Project
 
-This is a basic demonstration Salesforce DX Project. Using the [SF CLI](https://developer.salesforce.com/tools/sfdxcli) tools, you can deploy to a Developer Edition Scratch Org.
+This is a basic demonstration Salesforce DX Project. Using the [SF CLI](https://developer.salesforce.com/tools/sfdxcli) tools, you can deploy to a Developer Edition Scratch Org.  Our project will allow Salesforce administrators to make crypto payments from an enterprise Salesforce Org that resembles this one.
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
