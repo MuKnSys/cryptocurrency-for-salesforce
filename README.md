@@ -1,4 +1,9 @@
-# Project Plan
+# Cryptocurrency for Salesforce
+
+## Overview
+[Web3 Enabler](https://web3enabler.com) empowers enterprise users to send and accept crypto payments on the world’s leading CRM, ERP and BI software, with just one click. We handle the complexities of Web3 so that our users can reap the benefits of cryptocurrencies, without the steep learning curve. 
+
+## Project Plan
 
 # Salesforce Project and Salesforce Org Wallet Explanation and Setup
 
@@ -6,13 +11,13 @@ This is a basic demonstration Salesforce DX Project. Using the [SF CLI](https://
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
-## Salesforce Developer Edition
+### Salesforce Developer Edition
 
 You can get a free Salesforce Developer Edition account from Salesforce. Sign up at:
 
 https://developer.salesforce.com/signup
 
-## How To Test the App
+### How To Test the App
 
 1. Checkout the Main Branch
 1. Log into the Dev Hub Org by running `sf org login web --set-default-dev-hub --alias DevHub --instance-url https://login.salesforce.com` and entering your username and password.
@@ -30,14 +35,14 @@ Once you've set up your Salesforce Scratch Org, you can follow the steps outline
 
 We launched Web3 Enabler on the Salesforce App Exchange in July, 2023.  See our [AppExchange listing](https://appexchange.salesforce.com/appxListingDetail?listingId=ee4c011b-7a5b-4a50-91fb-f28049390858) for further details.
 
-## Submitting changes to GitHub
+### Submitting changes to GitHub
 
 1. Create a feature / change branch - you will need to fork the project
 1. Pull changes from Salesforce `sf project retrieve start`
 1. Push changes to GitHub
 1. Create a pull request
 
-## Notes - Convert sf scratch org creation command to sfdx
+### Notes - Convert sf scratch org creation command to sfdx
 
 `sfdx force:org:create -f config/project-scratch-def.json --setalias xrpsalesforce1 --durationdays 30 --setdefaultusername --json --loglevel fatal`
 
