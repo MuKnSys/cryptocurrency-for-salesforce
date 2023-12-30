@@ -6,7 +6,7 @@
 ## Technical Architecture
 
 
-## Project Roadmap
+## Integration Plan / Project Roadmap
 
 
 ## Salesforce Project and Salesforce Org Wallet Explanation and Setup
