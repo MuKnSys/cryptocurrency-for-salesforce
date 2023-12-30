@@ -1,6 +1,6 @@
-# salesforce-org-wallet
+# Project Plan
 
-# Salesforce Project
+# Salesforce Project and Salesforce Org Wallet Explanation and Setup
 
 This is a basic demonstration Salesforce DX Project. Using the [SF CLI](https://developer.salesforce.com/tools/sfdxcli) tools, you can deploy to a Developer Edition Scratch Org.  Our project will allow Salesforce administrators to make crypto payments from an enterprise Salesforce Org that resembles this one.
 
