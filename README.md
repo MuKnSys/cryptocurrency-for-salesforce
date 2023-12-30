@@ -3,9 +3,13 @@
 ## Overview
 [Web3 Enabler](https://web3enabler.com) empowers enterprise users to send and accept crypto payments on the world’s leading CRM, ERP and BI software, with just one click. We handle the complexities of Web3 so that our users can reap the benefits of cryptocurrencies, without the steep learning curve. 
 
-## Project Plan
+## Technical Architecture
 
-# Salesforce Project and Salesforce Org Wallet Explanation and Setup
+
+## Project Roadmap
+
+
+## Salesforce Project and Salesforce Org Wallet Explanation and Setup
 
 This is a basic demonstration Salesforce DX Project. Using the [SF CLI](https://developer.salesforce.com/tools/sfdxcli) tools, you can deploy to a Developer Edition Scratch Org.  Our project will allow Salesforce administrators to make crypto payments from an enterprise Salesforce Org that resembles this one.
 
