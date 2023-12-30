@@ -8,6 +8,27 @@
 
 ## Integration Plan / Project Roadmap
 
+Milestone 1 - Initial Build Out
+
+* Building of cryptocurrency admin UI/UX
+* Cryptocurrency payments for Salesforce admin UI/UX
+* Building of cryptocurrency user UI/UX
+* Cryptocurrency payments for Salesforce user UI/UX
+* Initial Apex integration to the blockchain 
+* Unit tests for Apex integration
+
+Milestone 2 - Completion of Open Source
+
+* Full Apex integration 
+* User story creation
+* Admin story creation
+* Full testing specifications completed 
+
+Milestone 3 - Managed package creation 
+
+* Full documentation creation
+* User guide and API documentation for security review 
+* Security review submission
 
 ## Salesforce Project and Salesforce Org Wallet Explanation and Setup
 
