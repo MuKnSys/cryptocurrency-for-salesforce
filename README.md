@@ -28,11 +28,11 @@ Milestone 2 - Completion of Open Source
 * Admin story creation
 * Full testing specifications completed 
 
-Milestone 3 - Managed Package Creation 
+Milestone 3 - Unmanaged Package Creation 
 
-* Full documentation creation
-* User guide and API documentation for security review 
-* Security review submission
+* Unmanaged package documentation
+* Unmanaged package submission
+* Self Hosting of server component
 
 ## Salesforce Project and Salesforce Org Wallet Explanation and Setup
 
