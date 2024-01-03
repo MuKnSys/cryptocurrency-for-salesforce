@@ -6,7 +6,7 @@
 ## Technical Architecture
 
 
-[roles](https://github.com/MuKnSys/cryptocurrency-for-salesforce/blob/main/assets/roles_per_web3_enabler_admin_type.png)
+[Web3 Enabler Admin Flowchart](https://github.com/MuKnSys/cryptocurrency-for-salesforce/blob/main/assets/web3_enabler_admin_flowchart.png)
 
 
 
