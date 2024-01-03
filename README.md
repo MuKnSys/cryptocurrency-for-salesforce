@@ -6,6 +6,10 @@
 ## Technical Architecture
 
 
+[roles](https://github.com/MuKnSys/cryptocurrency-for-salesforce/blob/main/assets/roles_per_web3_enabler_admin_type.png)
+
+
+
 ## Integration Plan / Project Roadmap
 
 Milestone 1 - Initial Build Out
