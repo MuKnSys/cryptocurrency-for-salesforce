@@ -28,7 +28,7 @@ Milestone 2 - Completion of Open Source
 * Admin story creation
 * Full testing specifications completed 
 
-Milestone 3 - Managed package creation 
+Milestone 3 - Managed Package Creation 
 
 * Full documentation creation
 * User guide and API documentation for security review 
