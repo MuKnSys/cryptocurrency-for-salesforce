@@ -8,7 +8,7 @@
 
 [Web3 Enabler Admin Flowchart](https://github.com/MuKnSys/cryptocurrency-for-salesforce/blob/main/assets/web3_enabler_admin_flowchart.png)
 
-
+[Web3 Enabler Non-Admin Flowchart](https://github.com/MuKnSys/cryptocurrency-for-salesforce/blob/main/assets/web3_enabler_non-admin_flowchart.png)
 
 ## Integration Plan / Project Roadmap
 
